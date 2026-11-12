@@ -1,4 +1,4 @@
-module srv-caffe
+module srv-caffe-sprint7-final
 
 go 1.26.4
 
